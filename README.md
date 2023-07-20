@@ -1,5 +1,9 @@
 # Four in a Row
 
+![Four In A Row](https://github.com/kojiado/four-in-a-row/assets/127887180/2fe98eb9-5173-4107-9994-3100f81837a1)
+
+
+
 Four in a Row is a classic two-player game implemented in Ruby using the Ruby2D library. The objective of the game is to be the first player to connect four of their colored tokens in a row, either horizontally, vertically, or diagonally.
 
 ## Installation
@@ -22,16 +26,18 @@ ruby four-in-a-row.rb
 This will start the Four in a Row game.
 
 ## Preview
-![game_preview](https://github.com/kojiado/four-in-a-row/assets/127887180/604f1f53-f1d9-4670-9510-e960bd123ad3)
+![game-preview](https://github.com/kojiado/four-in-a-row/assets/127887180/e89be615-a5af-4177-bc89-750e1cd3016a)
 
 
 ## Token Colors
 
 The red player is represented by a circle with the color code `#FF0000` (red).<br><br>
-![redCircle](https://github.com/kojiado/four-in-a-row/assets/127887180/ce9b9800-33ac-42d8-91fd-45779c8e01ed)
+![redCircle](https://github.com/kojiado/four-in-a-row/assets/127887180/5aefa09b-ea46-4ab8-a5be-f8dbe46e217a)
+
 <br><br>
 The yellow player is represented by a circle with the color code `#FFFF00` (yellow)<br><br>
-![yellowCircle](https://github.com/kojiado/four-in-a-row/assets/127887180/f6e614ad-4b1d-4f56-ba33-02939153de14)
+![yellowCircle](https://github.com/kojiado/four-in-a-row/assets/127887180/98ab1c0e-a992-4fe8-840f-ca2b34b7dabe)
+
 
 ## Gameplay
 The game is played by two players, represented by the colors yellow and red. Players take turns dropping their colored tokens into one of the seven columns on the game board.
