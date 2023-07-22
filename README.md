@@ -1,6 +1,7 @@
 # Four in a Row
 
-![Four In A Row Banner](https://github.com/kojiado/four-in-a-row/assets/127887180/25a8d046-d28b-4fea-822a-e10760d9d467)
+![Four In A Row Banner](https://github.com/kojiado/four-in-a-row/assets/127887180/cfc4f74a-4f03-45c0-bc27-55a55455a2eb)
+
 
 
 
